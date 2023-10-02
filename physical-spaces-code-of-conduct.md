@@ -47,7 +47,7 @@ jokes are not appropriate for any event.
 Harassment comes in many forms, including but not limited to:
   - Offensive comments related to gender, sexual orientation, age, disability,
     physical appearance, body size, race, veteran status, or religion
-  - Inappropriate comments related to a person's usage of a face mask
+  - Inappropriate comments related to a person's use or lack of use of a face mask
   - Posting/Exposing sexually explicit or violent images
   - Deliberate (or implied) intimidation
   - Stalking or persistent following
