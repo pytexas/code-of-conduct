@@ -75,6 +75,13 @@ Event staff will be happy to help participants contact hotel/venue security or
 local law enforcement, provide escorts, or otherwise assist those experiencing
 harassment to feel safe for the duration of the event. We value your attendance.
 
+## Weapons Policy
+No weapons are allowed at PyTexas Foundation events. Weapons include but are not 
+limited to explosives (including fireworks), guns, and large knives such as those 
+used for hunting or display, as well as any other item used for the purpose of causing 
+injury or harm to others. Anyone seen in possession of one of these items will be asked 
+to leave immediately, and will only be allowed to return without the weapon.
+
 ## Attendee Procedure for Incident Handling
 
 This procedure has been adopted from the Ada Initiative’s guide titled
