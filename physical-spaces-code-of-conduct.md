@@ -1,4 +1,4 @@
-# Code of ConductPyTexas
+# Code of Conduct PyTexas
 
   - [Summary](#Summary)
   - [Code of Conduct](#Code-of-Conduct)
@@ -13,7 +13,7 @@
 
 PyTexas is dedicated to providing an inclusive and harassment-free experience for
 anyone who participates in events that are organized or hosted by PyTexas – whether
-that is the PyTexas Conference or other events officially supporeted by PyTexas – and we
+that is the PyTexas Conference or other events officially supported by PyTexas – and we
 do not tolerate harassment of participants in any form.
 
 We value the participation of each member of the PyTexas community and want all
